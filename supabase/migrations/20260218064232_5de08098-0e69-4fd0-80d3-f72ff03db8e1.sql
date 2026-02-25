@@ -1,0 +1,1 @@
+ALTER TABLE public.site_settings ADD COLUMN about_image_2_url text;

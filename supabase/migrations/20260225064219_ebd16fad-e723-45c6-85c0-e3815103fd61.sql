@@ -1,0 +1,1 @@
+ALTER TABLE public.menu_items ADD COLUMN tag text DEFAULT NULL;

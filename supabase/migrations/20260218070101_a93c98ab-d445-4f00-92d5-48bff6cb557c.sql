@@ -1,0 +1,1 @@
+ALTER TABLE public.site_settings ADD COLUMN hero_tagline text NOT NULL DEFAULT 'Authentic Middle Eastern';

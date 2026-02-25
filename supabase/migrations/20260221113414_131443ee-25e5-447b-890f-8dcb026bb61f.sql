@@ -1,0 +1,1 @@
+ALTER TABLE public.menu_items ADD COLUMN is_special_offer boolean NOT NULL DEFAULT false;
